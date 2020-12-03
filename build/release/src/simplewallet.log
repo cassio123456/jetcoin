@@ -1,0 +1,36 @@
+2020-Oct-16 22:07:49.418879 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:09:50.459830 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:12:04.388902 INFO [simplewallet] Generated new wallet: hysEhLetGN4h5nM8DaS33mYafHcyJWYrjCvoynWYywAhfkEhH6HmmFKaX6V7qmAN1D6oFysbaU65H49z6GaMC1pk357cfy2U3
+2020-Oct-16 22:12:04.388902 INFO [simplewallet] view key: fb3e5b65ba8d8a54c30db806af3fae6fdeede586196ca59b227c8ebc07365200
+2020-Oct-16 22:12:04.389199 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2020-Oct-16 22:40:47.984175 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:40:59.888087 ERROR [simplewallet] Failed to initialize wallet
+2020-Oct-16 22:41:05.816771 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:41:22.912428 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:41:46.200514 ERROR [simplewallet] Error: failed to load wallet: wallet file 'wallet.bin.wallet' is not found
+2020-Oct-16 22:41:46.200834 ERROR [simplewallet] Failed to initialize wallet
+2020-Oct-16 22:42:08.335409 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:43:20.515412 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:44:01.678339 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:44:27.709682 ERROR [simplewallet] Error: failed to load wallet: wallet file 'wallet.bin.wallet' is not found
+2020-Oct-16 22:44:27.710000 ERROR [simplewallet] Failed to initialize wallet
+2020-Oct-16 22:44:37.077789 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-16 22:45:07.159888 INFO [simplewallet] Generated new wallet: hysFgAT3bmaGUUANs5AtdBAXy2go1Ro9h5DTSd6WjGL6StAhwwfLKWYRqtAQh6doGiTCuRbzuUVf3auizRUFXQTr1D8Q73Cgr
+2020-Oct-16 22:45:07.159888 INFO [simplewallet] view key: 605d1b733ff28771611020c69ac924304d4e7733f1380dd525f0941db2acea08
+2020-Oct-16 22:45:07.160441 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2020-Oct-17 09:22:17.247156 INFO [simplewallet] bitdev wallet v1.1.1.1()
+2020-Oct-17 09:22:51.586907 INFO [simplewallet] Loading wallet...
+2020-Oct-17 09:22:51.614800 ERROR [simplewallet] Error: failed to load wallet: can't load wallet file 'wallet.bin2.address.wallet', check password
+2020-Oct-17 09:22:51.615020 ERROR [simplewallet] Failed to initialize wallet

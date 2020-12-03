@@ -1,0 +1,51 @@
+2020-Oct-16 21:37:45.636163 INFO [daemon] bitdev v1.1.1.1()
+2020-Oct-16 21:37:45.671738 INFO [daemon] Module folder: ./bitdevd
+2020-Oct-16 21:37:45.729831 INFO [daemon] Initializing p2p server...
+2020-Oct-16 21:37:45.758787 INFO [node_server] Binding on 0.0.0.0:17888
+2020-Oct-16 21:37:45.759109 INFO [node_server] Net service binded on 0.0.0.0:17888
+2020-Oct-16 21:37:45.759325 INFO [node_server] Attempting to add IGD port mapping.
+2020-Oct-16 21:37:49.921183 INFO [node_server] No IGD was found.
+2020-Oct-16 21:37:49.921405 INFO [daemon] P2p server initialized OK
+2020-Oct-16 21:37:49.921512 INFO [daemon] Initializing core...
+2020-Oct-16 21:37:49.921927 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2020-Oct-16 21:37:50.081545 INFO [Blockchain] Blockchain initialized. last block: 0, d3026.h16.m37.s50 time ago, current difficulty: 1
+2020-Oct-16 21:37:50.081749 INFO [daemon] Core initialized OK
+2020-Oct-16 21:37:50.082512 INFO [daemon] Starting core rpc server on address 127.0.0.1:17999
+2020-Oct-16 21:37:50.082844 INFO [daemon] Core rpc server started ok
+2020-Oct-16 21:37:50.083044 INFO [daemon] Starting p2p net loop...
+2020-Oct-16 21:37:50.083198 INFO [node_server] Starting node_server
+2020-Oct-16 21:38:05.101409 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Oct-16 21:38:05.101733 INFO [core] 
+2020-Oct-16 21:38:05.101733 INFO [core] **********************************************************************
+2020-Oct-16 21:38:05.101733 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2020-Oct-16 21:38:05.101733 INFO [core] 
+2020-Oct-16 21:38:05.101733 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2020-Oct-16 21:38:05.101733 INFO [core] 
+2020-Oct-16 21:38:05.101733 INFO [core] Use "help" command to see the list of available commands.
+2020-Oct-16 21:38:05.101733 INFO [core] 
+2020-Oct-16 21:38:05.101733 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2020-Oct-16 21:38:05.101733 INFO [core] **********************************************************************
+2020-Oct-16 21:38:22.105105 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Oct-16 21:38:39.106708 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Oct-16 21:38:56.108321 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Oct-16 21:39:13.109915 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2020-Oct-16 21:39:20.241217 INFO [node_server] Stop signal sent
+2020-Oct-16 21:39:20.241560 INFO [node_server] Stopping NodeServer and it's0 connections...
+2020-Oct-16 22:50:36.049020 INFO [daemon] bitdev v1.1.1.1()
+2020-Oct-16 22:50:36.059600 INFO [daemon] Module folder: ./bitdevd
+2020-Oct-16 22:50:36.062970 INFO [daemon] Initializing p2p server...
+2020-Oct-16 22:50:36.063746 INFO [node_server] Binding on 0.0.0.0:17888
+2020-Oct-16 22:50:36.064193 INFO [miner] Mining has been stopped, 0 finished
+2020-Oct-16 22:50:36.065035 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
+2020-Oct-16 22:51:12.677693 INFO [daemon] bitdev v1.1.1.1()
+2020-Oct-16 22:51:12.678252 INFO [daemon] Module folder: ./bitdevd
+2020-Oct-16 22:51:12.685704 INFO [daemon] Initializing p2p server...
+2020-Oct-16 22:51:12.686356 INFO [node_server] Binding on 0.0.0.0:17888
+2020-Oct-16 22:51:12.686779 INFO [miner] Mining has been stopped, 0 finished
+2020-Oct-16 22:51:12.687598 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
+2020-Oct-17 09:33:21.530618 INFO [daemon] bitdev v1.1.1.1()
+2020-Oct-17 09:33:21.576446 INFO [daemon] Module folder: ./bitdevd
+2020-Oct-17 09:33:21.580429 INFO [daemon] Initializing p2p server...
+2020-Oct-17 09:33:21.581315 INFO [node_server] Binding on 0.0.0.0:17888
+2020-Oct-17 09:33:21.618670 INFO [miner] Mining has been stopped, 0 finished
+2020-Oct-17 09:33:21.619795 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
